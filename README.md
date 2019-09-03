@@ -1,2 +1,2 @@
 # EmbeddedSystems
-EmbeddedSystems assignmetns
+EmbeddedSystems assignments
